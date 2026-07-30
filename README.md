@@ -1,36 +1,144 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blackcoffer Training Task 3
 
-## Getting Started
+Training Task 3 submission for the Blackcoffer training program.
 
-First, run the development server:
+---
+
+# 📌 Project Overview
+
+This project is a responsive landing page built using **Next.js** and **Tailwind CSS**, based on the provided Figma design. The goal is to recreate the UI as closely as possible while maintaining clean, reusable, and responsive code.
+
+---
+
+# 🚀 Current Progress
+
+- ✅ Responsive Navigation Bar
+- ✅ Hero Section
+- ✅ Services Section
+- ✅ Statistics Section
+- ✅ Features ("What Makes Us Different") Section
+- 🚧 Success Stories Section (In Progress)
+- 🚧 CTA Section (Pending)
+- 🚧 Footer Section (Pending)
+- ⏳ Final UI Refinements & Responsiveness
+
+---
+
+# ✨ Features Implemented
+
+- Responsive Navigation Bar
+- Hero Banner
+- Services Grid
+- Interactive Hover Effects
+- Statistics Section
+- Features Section
+- Responsive Design
+- Component-Based Architecture
+- Optimized Images using Next.js Image Component
+- Tailwind CSS Styling
+
+---
+
+# 🛠️ Tech Stack
+
+- Next.js
+- React.js
+- Tailwind CSS
+- JavaScript
+- Next/Image
+
+---
+
+# 📂 Project Structure
+
+```
+training-task-3/
+│
+├── public/
+│   ├── icons/
+│   ├── images/
+│
+├── src/
+│   ├── app/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Services.jsx
+│   │   ├── Stats.jsx
+│   │   ├── Features.jsx
+│   │   ├── SuccessStories.jsx
+│   │   ├── CTA.jsx
+│   │   └── Footer.jsx
+│
+├── package.json
+├── next.config.mjs
+└── README.md
+```
+
+---
+
+# ⚙️ Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/debojeetmitra/blackcoffer-training-task-3.git
+```
+
+### Move into the project
+
+```bash
+cd blackcoffer-training-task-3
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 📖 Learning Objectives
 
-To learn more about Next.js, take a look at the following resources:
+- Building responsive layouts using Tailwind CSS
+- Implementing Figma designs in Next.js
+- Component-based architecture
+- Responsive Grid & Flex layouts
+- Hover animations and UI interactions
+- Next.js Image Optimization
+- Clean and reusable React components
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# 🚀 Upcoming Work
 
-## Deploy on Vercel
+- Complete Success Stories section
+- Complete CTA section
+- Complete Footer
+- Final UI polishing
+- Responsiveness testing
+- Demo video
+- Project documentation refinement
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 👨‍💻 Author
+
+**Debojeet Mitra**
+
+**GitHub:** https://github.com/debojeetmitra
+
+**LinkedIn:** https://www.linkedin.com/in/debojeet-mitra-159078289/
